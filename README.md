@@ -2,4 +2,5 @@
 My first repository
 
 Hello
-I'm Didier a math student at University of Bern and I'm new to coding.
+I'm Didier a math student from Swizerland and I'm new to coding.
+
